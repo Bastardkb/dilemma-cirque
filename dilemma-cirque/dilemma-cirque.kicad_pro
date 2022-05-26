@@ -346,7 +346,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BK-CirqueDB.kicad_pro",
+    "filename": "dilemma-cirque.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "CirqueDB.step",
+      "step": "CirqueDB_compact_test.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
